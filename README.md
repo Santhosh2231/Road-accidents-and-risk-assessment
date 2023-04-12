@@ -13,5 +13,5 @@ India generally represents pretty much one percent of the worldwide vehicle popu
 
 ## Tech Stack
 
--> R Shiny
--> R studio
+**R Shiny**
+**R studio**
