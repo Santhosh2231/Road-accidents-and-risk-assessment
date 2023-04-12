@@ -9,3 +9,9 @@ India generally represents pretty much one percent of the worldwide vehicle popu
 <li>Secondly, the project employs advanced technologies such as data visualization tools, machine learning algorithms, and geographic information systems (GIS) to provide an interactive and dynamic platform for analyzing road safety risks. This approach can enhance the accuracy and effectiveness of the analysis and enable policymakers to make more informed decisions.</li>
 <li>Thirdly, the project focuses on the visualization and analysis of road accidents in a specific geographic region, which can help identify localized road safety risks and facilitate targeted interventions. This approach can be particularly useful for developing countries or regions where resources for road safety interventions may be limited.</li>
 <li>Overall, the project "road accident visualization and risk analysis" is novel in its approach and has the potential to contribute significantly to improving road safety outcomes.</li>
+
+
+## Tech Stack
+
+-> R Shiny
+-> R studio
